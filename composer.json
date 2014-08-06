@@ -9,9 +9,11 @@
         }
     ],
     "require": {
-		    "stojg/crop": "*"
+        "stojg/crop": "*"
     },
     "autoload": {
-        "psr-4": { "Bangpound\\stojg\\crop\\": "src/" }
+        "psr-4": {
+            "Bangpound\\stojg\\crop\\": "src/"
+        }
     }
 }
